@@ -6,7 +6,7 @@ module.exports.getConfig = () => {
         'PORT': process.env.PORT || 5555,
         //Change Mongo URI to your own
         'MONGO_URL': 'mongodb+srv://admin:@cluster0.qlxgh.mongodb.net/?retryWrites=true&w=majority',
-        'MONGO_RESTORE_URL': 'mongodb+srv://admin:30122002@cluster0.qlxgh.mongodb.net/?retryWrites=true&w=majority',
+        'MONGO_RESTORE_URL': 'mongodb+srv://admin:@cluster0.qlxgh.mongodb.net/?retryWrites=true&w=majority',
         'JWT_SECRET': 'R4ND0M5TR1NG',
         'JWT_TOKEN_LIFETIME': 30 * 24 * 60 * 60, // 60 MINUTES IN SECOND
         'COOKIE_TOKEN_LIFETIME': 30 * 24 * 60 * 60 * 1000, // 60 MINUTES IN NANO SECOND
