@@ -1,6 +1,6 @@
 # Project Base Config Server-Side api and cpanel
 ## Author: Hoang Cong Nhut Vy ## Rapname: Viwhy ^^
-
+## Give me the star so everyone knows it
 This is my project base config for community. Server side - can deploy heroku.
 
 ## Tech
